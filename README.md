@@ -1,2 +1,0 @@
-# Shanmukhananda
-Shanmukhananda Inhouse Application
